@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MOTORACE GT</title>
+        <meta charset="utf8">
+        <meta name="author" content="Martín Villar Rey, Alejandro Fariña Gil">
+        <meta name="description" content="Fichas Técnicas">
+        <meta name="keywords" content="fichas técnicas, motos, coches, potencia, veocidad máxima">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body>
+        <header>
+            <h1>MOTORACE GT</h1>
+        </header>
+        <main>
+            <h2>MENU</h2>
+            <nav>
+                <a href="#600cc">600cc</a>
+                <a href="#125cc">125cc</a>
+            </nav>
+        </main>
+</html>

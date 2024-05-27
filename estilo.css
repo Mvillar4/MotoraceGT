@@ -1,0 +1,73 @@
+
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: red;
+    margin-top: 0%;
+}
+
+h1{
+    margin: 0%;
+}
+
+body{
+    margin: 0%;
+        
+}
+
+main{
+    margin: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    margin-left: 15%;
+}
+
+a{
+    margin-left: 0%;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+article{
+    margin-left: 10%;
+}
+
+h2{
+    margin-left: 12%;
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+h3{
+    margin-left: 6%;
+    font-size: 24px;
+}
+
+h4{
+    margin-left: 6%;
+    font-size: 22px;
+}
+
+h5{
+    margin-left: 6%;
+    font-size: 20px;
+}
+
+h6{
+    margin-left: 6%;
+    font-size: 15px;
+}
+
+p{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img{
+    margin-left: 10%
+}
